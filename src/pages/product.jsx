@@ -31,7 +31,7 @@ function Product() {
   }, [token]);
 
   const handleDelete = async (productId) => {
-    await fetch(`http://localhost:8080/product/delete/${productId}`, {
+    await fetch(`https://ecommrcebakend-1.onrender.com/product/delete/${productId}`, {
       method: "DELETE",
       headers: {
         "Content-Type": "application/json",

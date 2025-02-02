@@ -33,7 +33,7 @@ function Upadet() {
 
     // Fetch product details for editing
     if (id) {
-      fetch(`http://localhost:8080/product/edit/${id}`, {
+      fetch(`https://ecommrcebakend-1.onrender.com/product/edit/${id}`, {
         headers: {
           Authorization: `Bearer ${token}`,
         },

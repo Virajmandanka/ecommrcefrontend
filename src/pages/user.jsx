@@ -60,7 +60,7 @@ function User() {
 
 <header >
         <div className="logo">
-          <img src="public/logo.png.webp" alt="" />
+          <img src="../logo.png.webp" alt="" />
           <i className="fa-solid fa-bars" id="a"></i>
         </div>
         <nav className="nav">
@@ -81,7 +81,7 @@ function User() {
 
       <div className="men1">
         <div className="box1"></div>
-        <div className="box2"><img src="public/hero-banner.png.webp" alt="" /></div>
+        <div className="box2"><img src="../hero-banner.png.webp" alt="" /></div>
         <div className="box3">
           <h1 className="h1">Shop is fun</h1>
           <h1 className="h2">BROWSE OUR<br /> PREMIUM PRODUCT</h1>
@@ -95,13 +95,13 @@ function User() {
       </div>
 
       <div className="men2">
-        <div className="box4"><img src="public/hero-slide1.png.webp" alt="" />
+        <div className="box4"><img src="../hero-slide1.png.webp" alt="" />
           <div className="box5"><p className="q6">Wireless Headphone<br /> classbAccessories item</p></div>
         </div>
-        <div className="box4"><img src="public/hero-slide2.png.webp" alt="" />
+        <div className="box4"><img src="../hero-slide2.png.webp" alt="" />
           <div className="box5"><p className="q6">Wireless Headphone<br /> classbAccessories item</p></div>
         </div>
-        <div className="box4"><img src="public/hero-slide3.png.webp" alt="" />
+        <div className="box4"><img src="../hero-slide3.png.webp" alt="" />
           <div className="box5"><p className="q6">Wireless Headphone<br /> classbAccessories item</p></div>
         </div>
       </div>
@@ -113,28 +113,28 @@ function User() {
       </div>
 
       <div className="menn4">
-        <div className="boxx6"><img src="public/product1.png.webp" alt="" />
+        <div className="boxx6"><img src="../product1.png.webp" alt="" />
           <div className="boxx8">
             <div className="i1"><i className="fa-solid fa-magnifying-glass"></i></div>
             <div className="i1"><i className="fa-solid fa-cart-shopping"></i></div>
             <div className="i1"><i className="fa-regular fa-heart"></i></div>
           </div>
         </div>
-        <div className="boxx6"><img src="public/product2.png.webp" alt="" />
+        <div className="boxx6"><img src="../product2.png.webp" alt="" />
           <div className="boxx8">
             <div className="i1"><i className="fa-solid fa-magnifying-glass"></i></div>
             <div className="i1"><i className="fa-solid fa-cart-shopping"></i></div>
             <div className="i1"><i className="fa-regular fa-heart"></i></div>
           </div>
         </div>
-        <div className="boxx6"><img src="public/product3.png.webp" alt="" />
+        <div className="boxx6"><img src="../product3.png.webp" alt="" />
           <div className="boxx8">
             <div className="i1"><i className="fa-solid fa-magnifying-glass"></i></div>
             <div className="i1"><i className="fa-solid fa-cart-shopping"></i></div>
             <div className="i1"><i className="fa-regular fa-heart"></i></div>
           </div>
         </div>
-        <div className="boxx6"><img src="public/product4.png.webp" alt="" />
+        <div className="boxx6"><img src="../product4.png.webp" alt="" />
           <div className="boxx8">
             <div className="i1"><i className="fa-solid fa-magnifying-glass"></i></div>
             <div className="i1"><i className="fa-solid fa-cart-shopping"></i></div>
@@ -168,28 +168,28 @@ function User() {
 
 
       <div className="menn4">
-        <div className="boxx6"><img src="public/product5.png.webp" alt="" />
+        <div className="boxx6"><img src="../product5.png.webp" alt="" />
           <div className="boxx8">
             <div className="i1"><i className="fa-solid fa-magnifying-glass"></i></div>
             <div className="i1"><i className="fa-solid fa-cart-shopping"></i></div>
             <div className="i1"><i className="fa-regular fa-heart"></i></div>
           </div>
         </div>
-        <div className="boxx6"><img src="public/product6.png.webp" alt="" />
+        <div className="boxx6"><img src="../product6.png.webp" alt="" />
           <div className="boxx8">
             <div className="i1"><i className="fa-solid fa-magnifying-glass"></i></div>
             <div className="i1"><i className="fa-solid fa-cart-shopping"></i></div>
             <div className="i1"><i className="fa-regular fa-heart"></i></div>
           </div>
         </div>
-        <div className="boxx6"><img src="public/product7.png.webp" alt="" />
+        <div className="boxx6"><img src="../product7.png.webp" alt="" />
           <div className="boxx8">
             <div className="i1"><i className="fa-solid fa-magnifying-glass"></i></div>
             <div className="i1"><i className="fa-solid fa-cart-shopping"></i></div>
             <div className="i1"><i className="fa-regular fa-heart"></i></div>
           </div>
         </div>
-        <div className="boxx6"><img src="public/product8.png.webp" alt="" />
+        <div className="boxx6"><img src="../product8.png.webp" alt="" />
           <div className="boxx8">
             <div className="i1"><i className="fa-solid fa-magnifying-glass"></i></div>
             <div className="i1"><i className="fa-solid fa-cart-shopping"></i></div>
@@ -250,9 +250,9 @@ function User() {
       </div>
 
       <div className="men6">
-        <div className="box12"><img src="public/blog1.png.webp" alt="" /></div>
-        <div className="box12"><img src="public/blog2.png.webp" alt="" /></div>
-        <div className="box12"><img src="public/blog3.png.webp" alt="" /></div>
+        <div className="box12"><img src="../blog1.png.webp" alt="" /></div>
+        <div className="box12"><img src="../blog2.png.webp" alt="" /></div>
+        <div className="box12"><img src="../blog3.png.webp" alt="" /></div>
 
         <div className="box13">
           <p className="q9">By Admin&nbsp;&nbsp;&nbsp;&nbsp;<i className="fa-solid fa-face-smile"></i>&nbsp;&nbsp;2 Comments</p>
@@ -313,12 +313,12 @@ function User() {
           <h1 className="h13">Gallery</h1>
 
           <div className="box16">
-            <div className="box17"><img src="public/r1.jpg.webp" alt="" /></div>
-            <div className="box17"><img src="public/r2.jpg.webp" alt="" /></div>
-            <div className="box17"><img src="public/r3.jpg.webp" alt="" /></div>
-            <div className="box17"><img src="public/r5.jpg.webp" alt="" /></div>
-            <div className="box17"><img src="public/r7.jpg.webp" alt="" /></div>
-            <div className="box17"><img src="public/r8.jpg.webp" alt="" /></div>
+            <div className="box17"><img src="../r1.jpg.webp" alt="" /></div>
+            <div className="box17"><img src="../r2.jpg.webp" alt="" /></div>
+            <div className="box17"><img src="../r3.jpg.webp" alt="" /></div>
+            <div className="box17"><img src="../r5.jpg.webp" alt="" /></div>
+            <div className="box17"><img src="../r7.jpg.webp" alt="" /></div>
+            <div className="box17"><img src="../r8.jpg.webp" alt="" /></div>
           </div>
         </div>
         <div className="box15">

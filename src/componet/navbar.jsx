@@ -18,7 +18,7 @@ function Navbar() {
         <input type="text" placeholder="Search..." />
       </div>
       <div className="navbar-profile">
-        <img src="/public/images.jpg" alt="Profile" />
+        <img src="../images.jpg" alt="Profile" />
         <div className="profile-dropdown">
           <a href="#profile">Profile</a>
           <a href="#logout">Logout</a>

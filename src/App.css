@@ -1826,3 +1826,561 @@ width: 100px;
 .read-the-docs {
   color: #888;
 }
+
+
+
+
+
+
+
+
+@media(max-width:980px){
+
+  header{
+      height: auto;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-right: 0%;
+      
+  }
+  nav{
+      height: auto;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      
+  }
+  nav ul{
+      height: auto;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      
+  }
+  .logo{
+      height: auto;
+      width: 30%;
+       flex-direction: column; 
+       margin-left: 0px;
+       
+
+  }
+  .logo img{
+      height: auto;
+      width: 100%;
+  }
+  #a{
+      display: block;
+      margin-left: 72%;
+      top: 20px;
+      position: absolute;
+      
+  }
+  .men1{
+      height: auto;
+      width: 100%;
+  
+      
+  }
+  .men2{
+      height: auto;
+      width: 100%;
+  }
+  .box1{
+      height: auto;
+      width: 80%;
+      
+
+
+  }
+  .box3 .h1{
+       margin-left: 0%;
+  }
+  .box3 .h2{
+      margin-left: 0%;
+      font-size: 100%;
+  }
+  .box3 .q1{
+      margin-left: 0%;
+      font-size: 55%;
+  }
+  .box3 .bu{
+      margin-left: 0%;
+  }
+  .box2{
+      height: auto;
+      width: 100%;
+      margin-left: -45%;
+  }
+ 
+  .box3{
+      height: auto;
+      width: 50%;
+
+  }
+  .men{
+      height: auto;
+      width: 90%;
+  }
+  .menn4{
+      height: auto;
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+       
+      flex-wrap: wrap; 
+  }
+  .boxx10 .bu1{
+      margin-left: 35%;
+  }
+  .boxx6{
+      height: auto;
+       width: 49%;
+      align-items: center;
+      justify-content: center;
+
+  }
+  .boxx8{
+      height: auto;
+       width: 49%; 
+      align-items: center;
+      justify-content: center;
+  }
+  .boxx7{
+      height: auto;
+       width: 48%; 
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+  }
+  .menn5{
+      height: auto;
+      width: 100%;
+      display: flex;
+  }
+  .boxx10{
+      height: auto;
+      width: 80%;
+      margin-bottom: 20%;
+  }
+  .men6{
+      height: auto;
+       width:100%; 
+      flex-wrap: wrap;
+       display: flex; 
+  }
+  .box12{
+      height: auto;
+       width: 30%; 
+  }
+  .box13{
+      height: auto;
+       width: 30%;  
+  }
+  .cou{
+      height: auto;
+      width: 100%;
+      margin-top: 20px;
+      
+  }
+  .co1{
+      height: auto;
+      width: 20%;
+  }
+  .men12{
+      height: auto;
+      width: 100%;
+      margin-left: 0%;
+      
+       
+      
+      
+  }
+  input{
+      height: auto;
+      width: 40%;
+  }
+  .men12 .but2{
+      height: auto;
+      width: 40%;
+      margin-left: 27%;
+  }
+  .men13{
+      height: auto;
+      width: 100%;
+      flex-wrap: wrap;
+
+      
+    
+  }
+  .box15{
+      height: auto;
+        width: 20%; 
+      justify-content: center;
+      align-items: center;
+     
+  }
+  .men14{
+      height: auto;
+       /* width: 100%; */
+      justify-content: center;
+  }
+  .re{
+      height: auto;
+      width: 100%;
+  }
+  .re1{
+      height: auto;
+      width: 50%;
+  }
+  
+  
+}
+
+ @media(max-width:720px){
+
+  header{
+      height: fit-content;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-left:- 0px;
+      
+  }
+  nav{
+      height: auto;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      
+  }
+  nav ul{
+      height: auto;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      
+  }
+  .logo{
+      height: auto;
+      width: 25%;
+       flex-direction: column; 
+       margin-left: 0px;
+       
+
+  }
+  .logo img{
+      height: auto;
+      width: 100%;
+  }
+  #a{
+      display: block;
+      margin-left: 68%;
+      top: 20px;
+      position: absolute;
+      
+  }
+  .men1{
+      height: auto;
+      width: 100%;
+  
+      
+  }
+  .men2{
+      height: auto;
+      width: 100%;
+  }
+  .box1{
+      height: auto;
+      width: 85%;
+      
+
+
+  }
+  .box2{
+      height: auto;
+      width: 85%;
+  }
+ 
+  .box3{
+      height: auto;
+      width: 85%;
+
+  }
+  .menn4{
+      height: auto;
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .boxx6{
+      height: auto;
+      /* width: 100%; */
+      align-items: center;
+      justify-content: center;
+
+  }
+  .boxx5{
+      height: auto;
+      width: 75%;
+  }
+  .boxx5 .q6{
+      font-size: 75%;
+  }
+  .boxx8{
+      height: auto;
+      /* width: 90%; */
+      align-items: center;
+      justify-content: center;
+  }
+  .boxx7{
+      height: auto;
+      /* width: 90%; */
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+  }
+  .menn5{
+      height: auto;
+      width: 100%;
+      display: flex;
+  }
+  .boxx10{
+      height: auto;
+      width: 85%;
+  }
+  .men6{
+      height: auto;
+       width:100%; 
+      flex-wrap: wrap;
+       display: flex; 
+  }
+  .box12{
+      height: auto;
+       width: 30%; 
+  }
+  .box13{
+      height: auto;
+       width: 30%;  
+  }
+  .cou{
+      height: auto;
+      width: 100%;
+      
+  }
+  .co1{
+      height: auto;
+      width: 20%;
+  }
+  .men12{
+      height: auto;
+      width: 100%;
+      
+      margin-left: 0;
+      
+      
+  }
+  input{
+      height: auto;
+      width: 35%;
+  }
+  .men12 .but2{
+      height: auto;
+      width: 35%;
+      margin-left: 25%;
+  }
+  .men13{
+      height: auto;
+      width: 100%;
+      flex-wrap: wrap;
+
+      
+    
+  }
+  .box15{
+      height: auto;
+       width: 50%; 
+      justify-content: center;
+      align-items: center;
+     
+  }
+  .men14{
+      height: auto;
+      /* width: 100%; */
+      justify-content: center;
+  }
+  .re{
+      height: auto;
+      width: 100%;
+  }
+  .re1{
+      height: auto;
+      width: 50%;
+  }
+
+  
+}
+
+@media (max-width:480px){
+
+  header{
+      height: auto;
+      width: 100%;
+      
+  }
+  nav{
+      height: auto;
+      width: 100%;
+      flex-direction: column;
+  }
+  nav ul{
+      height: auto;
+      width: 100%;
+      flex-direction: column;
+  }
+  .logo{
+      height: auto;
+      width: 100%;
+       flex-direction: column; 
+  }
+  .logo img{
+      height: auto;
+      width: 50%;
+  }
+  #a{
+      display: block;
+      margin-left: 75%;
+      top: 20px;
+      
+  }
+  .men1{
+      height: auto;
+      width: 100%;
+  }
+  .box1{
+      height: auto;
+      width: 100%;
+
+
+  }
+  .box2{
+      height: auto;
+      width: 100%;
+  }
+ 
+  .box3{
+      height: auto;
+      width: 100%;
+  }
+  .men2{
+      height: auto;
+      width: auto;
+  }
+  .men4{
+      height: auto;
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+  }
+  .box6{
+      height: auto;
+      width: 90%;
+      align-items: center;
+      justify-content: center;
+
+  }
+  .box8{
+      height: auto;
+      width: 90%;
+      align-items: center;
+      justify-content: center;
+  }
+  .box7{
+      height: auto;
+      width: 90%;
+      align-items: center;
+      justify-content: center;
+  }
+  .men5{
+      height: auto;
+      width: 100%;
+  }
+  .box10{
+      height: auto;
+      width: 100%;
+  }
+  .men6{
+      height: auto;
+      width: 100%;
+  }
+  .box12{
+      height: auto;
+      width: 90%;
+  }
+  .box13{
+      height: auto;
+      width: 90%;
+  }
+  .cou{
+      height: auto;
+      width: 100%;
+      flex-direction: column;
+  }
+  .co1{
+      height: auto;
+      width: 90%;
+  }
+  .men12{
+      height: auto;
+      width: 100%;
+      margin-left: 0;
+      
+      
+  }
+  input{
+      height: auto;
+      width: 35%;
+  }
+  .men12 .but2{
+      height: auto;
+      width: 35%;
+      margin-left: 38%;
+  }
+  .men13{
+      height: auto;
+      width: 100%;
+      
+    
+  }
+  .box15{
+      height: auto;
+      width: 100%;
+     
+  }
+  .men14{
+      height: auto;
+      width: 100%;
+  }
+  .re{
+      height: auto;
+      width: 100%;
+  }
+  .re1{
+      height: auto;
+      width: 50%;
+  }
+}
+
+
+
+
+
